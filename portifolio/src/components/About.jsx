@@ -9,11 +9,10 @@ export default function About(){
                         <div class="col-lg-8">
                             <h2 class="text-white mb-4">Sobre mim</h2>
                             <p class="text-white-50">
-                                Sou um desenvolvedor front-end, com quase 2 anos de estudos e projetos, em busca de uma primeira oportunidade de ingressar no mercado de trabalho e aprimorar minhas habilidades.
+                                Sou um desenvolvedor front-end, com quase 2 anos de estudos e projetos, em busca de uma primeira oportunidade de ingressar no mercado de trabalho e aprimorar minhas habilidades. Você pode conferir meu curriculum em portugês <a href="https://drive.google.com/file/d/1af-3UpFjTROkIyWM_2w_UpGXzMZ4mnQv/view">aqui</a>, ou em inglês <a href="#!">aqui</a>.
                             </p>
                         </div>
                     </div>
-                    <img class="img-fluid" src="assets/img/ipad.png" alt="..." />
                 </div>
             </section>
         </>
